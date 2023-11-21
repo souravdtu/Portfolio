@@ -66,7 +66,7 @@ export const experiencesList = [
     company_name: "Carwale",
     icon: carwale,
     iconBg: "#E6DEDD",
-    date: "April 2022 - Present",
+    date: "April 2023 - Present",
     points: [
       "Responsible for maintaining the codebase and integrating new features in CarWale’s mobile application having 5M+ installs and 4.6+ rating on the Play Store.",
 "Spearheaded a seamless transition from the Android native codebase to a React Native codebase for the mobile app.",
